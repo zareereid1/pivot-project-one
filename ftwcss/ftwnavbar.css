@@ -1,0 +1,72 @@
+
+.alex-logo {
+    float: left;
+    padding: 8px;
+    margin-left: 16px;
+    margin-top: 4px;
+}
+
+.alex-logo-a {
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0px;
+    text-decoration: none;
+    background-size: 200%;
+    position: sticky;
+    font-family: 'Raleway';
+}
+
+.alex-logo-a:hover {
+    background-image: linear-gradient(to right, #000 50%, #C72C41 50%, #f542ef);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    transition: 1s ease-out;
+    background-position: -200%;
+    font-size: 27px;
+}
+
+.alex-ul {
+    float: right;   
+}
+
+.alex-li {
+    display: inline-block; 
+}
+
+.alex-li:not(:first-child) {
+    margin-left: 48px;
+}
+
+.alex-li:last-child {
+    margin-right: 24px;
+}
+
+.alex-li-a {
+    display: inline-block;
+    outline: none;
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+    cursor: pointer;
+    background-size: 200%;
+    font-family: 'Raleway';
+    position: sticky;
+}
+
+.alex-li-a:hover {
+    background-image: linear-gradient(to right, #000 50%, #C72C41 50%, #f542ef);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    transition: 1s ease-out;
+    background-position: -200%;
+    font-size: 19px;
+}
+
+

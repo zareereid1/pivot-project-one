@@ -1,0 +1,26 @@
+.container{
+background-color:yellow;
+border-style: solid;
+font-size: x-large;
+}
+
+.pick{
+ border-style: solid;
+ font-size: larger;  
+ font-style: italic; 
+}
+.niners{
+    border-style: ridge;
+}
+
+.niners-pic{
+    height: 500px;
+    width: 500px;
+}
+
+.steph-pic{
+    height: 500px;
+    width: 500px;
+}
+
+

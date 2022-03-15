@@ -1,0 +1,18 @@
+.table-container {
+    margin: 50px;
+    margin-left: 0;
+    margin-right: 0;
+    border: rebeccapurple;
+    border-style: double;
+    display: inline-block;
+    outline: none;
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+}
+.land-row {
+    text-decoration: underline;
+}
